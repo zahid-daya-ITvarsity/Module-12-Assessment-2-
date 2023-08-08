@@ -1,0 +1,112 @@
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0;
+}
+
+/*******editcontacts*******/
+
+#firstname{
+    font-family: fantasy;
+    background-color: black;
+    color: crimson;
+    padding-left: 3px;
+}
+
+#lastname{
+    font-family: fantasy;
+    background-color: black;
+    color: crimson;
+    padding-left: 3px;
+}
+
+#mobile{
+    font-family: fantasy;
+    background-color: black;
+    color: crimson;
+    padding-left: 3px;
+}
+
+#email{
+    font-family: fantasy;
+    background-color: black;
+    color: crimson;
+    padding-left: 3px;
+}
+
+/****buttons****/
+
+#buttonBottom{
+    text-align: center;
+    background-color: crimson;
+    font-family: fantasy;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+#home-button{
+     text-align: center;
+     background-color: crimson;
+     font-family: fantasy;
+     padding: 20px;
+}
+
+#editForm{
+     text-align: center;
+     background-color: crimson;
+     font-family: fantasy;
+     padding: 20px;
+}
+
+#homeLink{
+     text-align: center;
+     background-color: crimson;
+     font-family: fantasy;
+     padding: 20px;
+}
+
+#avatarImage{
+    text-align: center;
+}
+
+#headingTop{
+    text-align: center;
+    padding: 25px;
+    font-family: sans-serif;
+    background-color: black;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
